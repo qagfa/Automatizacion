@@ -11,6 +11,8 @@ public class claseConexion {
 	public String PROPERTY_PATH_FIREFOX = "webdriver.gecko.driver";
 	public String DRIVER_PATH_CHROME = "";
 	public String PROPERTY_PATH_CHROME = "webdriver.chrome.driver";
+	public String DRIVER_PATH_EDGE = "";
+	public String PROPERTY_PATH_EDGE = "webdriver.edge.driver";
 	
 	public String URL_PORTAL = "http://qa-envios.primeraplus.com/";
 	public WebDriver driver;
