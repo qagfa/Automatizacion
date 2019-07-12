@@ -1,0 +1,1 @@
+{"uuid":"95c94cf9-014e-4cdf-8520-0d85c6ed3eb0","name":"portalSTEP.TestPortal3Guias","children":["b2ffee2e-c3ab-4f1b-acea-2de9b5efa73f"],"befores":[{"name":"test3Conexion","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1562876168687,"stop":1562876181134}],"afters":[],"links":[],"start":1562876168634,"stop":1562876181666}

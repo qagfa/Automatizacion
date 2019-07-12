@@ -1,0 +1,1 @@
+{"uuid":"1234ce0b-49bc-445a-853d-77fb9ea50400","name":"Default test","children":["18c70cdc-aca5-4b5a-9107-dc84406eb1fe"],"befores":[{"name":"iniciarConexion","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1562866054887,"stop":1562866054896}],"afters":[],"links":[],"start":1562866054687,"stop":1562866067539}
