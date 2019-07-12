@@ -1,18 +1,21 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name ="Automatización envios primera plus" thread-count="3">
-
-	<test name="Test 3 Guías" >
-		<classes>
-			<class name="gfa.PortalSTEP.TestPortal3Guias"></class>
+<suite name ="Automatización envios primera plus" thread-count="3" parallel="tests">
+ 	<test name="FirefoxTest"> 
+ 		<parameter name="browser" value="firefox" />
+ 		<classes>
+			<class name="portalSTEP.TestPortal3Guias" ></class> 
 		</classes>
 	</test>
-	
-	<!-- 
-	<test name="Automatización vuelta 1">
-		<classes>
-			<class name="ProbandoTest.cicloTesting"></class>
+ 	<test name="ChromeTest">
+ 		<parameter name="browser" value="chrome" />
+ 		<classes>
+			<class name="portalSTEP.TestPortal3Guias" ></class>
 		</classes>
 	</test>
-	-->
-
+ 	<test name="EdgeTest">
+ 		<parameter name="browser" value="edge" /> 
+ 		<classes>
+			<class name="portalSTEP.TestPortal3Guias" ></class>
+		</classes>
+	</test>
 </suite>
