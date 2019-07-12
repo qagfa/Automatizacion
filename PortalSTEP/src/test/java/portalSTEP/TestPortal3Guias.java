@@ -38,7 +38,7 @@ public class TestPortal3Guias extends claseConexion {
 		driver.quit();
 	}
 	
-	@Test(dataProvider = "browsers")
+	@Test
 	public void saludo() {
 		System.out.println("hola");
 	}
