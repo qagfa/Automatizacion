@@ -24,13 +24,13 @@ public class claseConexion {
 
 	public void iniciarVariables() {
 		
-		setDRIVER_PATH_CHROME("C:\\Users\\le.loza\\Downloads\\Drivers\\chromedriver.exe");
+		setDRIVER_PATH_CHROME("C:\\selenium\\drivers\\chromedriver.exe");
 		setPROPERTY_PATH_CHROME("webdriver.chrome.driver");
 
-		setDRIVER_PATH_FIREFOX("C:\\Users\\le.loza\\Downloads\\Drivers\\geckodriver.exe");
+		setDRIVER_PATH_FIREFOX("C:\\selenium\\drivers\\geckodriver.exe");
 		setPROPERTY_PATH_FIREFOX("webdriver.gecko.driver");
 		
-		setDRIVER_PATH_EDGE("C:\\Users\\le.loza\\Downloads\\Drivers\\Otra\\MicrosoftWebDriver.exe");
+		setDRIVER_PATH_EDGE("C:\\selenium\\drivers\\MicrosoftWebDriver.exe");
 		setPROPERTY_PATH_EDGE("webdriver.edge.driver");
 		
 	}
@@ -38,6 +38,7 @@ public class claseConexion {
 /////////////////////////////////Ejecutar Driver Navegador Chrome////////////////////////////////////////////////
 	
 	public void ConexionChrome() {
+		iniciarVariables();
 		
 		String exePath;
 		String propertyPath;
@@ -47,12 +48,14 @@ public class claseConexion {
 		
 		System.setProperty(propertyPath, exePath);
 		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.get(getURL_PORTAL());
 	}
 	
 /////////////////////////////////Ejecutar Driver Navegador Firefox/////////////////////////////////////////////////
 
 	public void ConexionFirefox() {
+		iniciarVariables();
 		
 		String exePath;
 		String propertyPath;
@@ -68,6 +71,7 @@ public class claseConexion {
 ////////////////////////////////////Ejecutar Driver Navegador Edge///////////////////////////////////////////////
 
 	public void ConexionEdge() {
+		iniciarVariables();
 		
 		String exePath;
 		String propertyPath;
@@ -83,6 +87,7 @@ public class claseConexion {
 ////////////////////////////////////Ejecutar Driver Navegador Safari///////////////////////////////////////////////
 
 	public void ConexionSafari() {
+		iniciarVariables();
 		
 		driver = new SafariDriver();
 		driver.get(getURL_PORTAL());

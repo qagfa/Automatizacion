@@ -3,15 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="gfa.PortalSTEP.TestPortal3Guias">
+      <class name="portalSTEP.TestFormularioConcurso">
         <methods>
-          <include name="test1ConexionEdge"/>
-          <include name="iniciarConexion"/>
-          <include name="test2ConexionFirefox"/>
-          <include name="test3ConexionChrome"/>
           <include name="cerrarConexion"/>
+          <include name="CargarArchivo"/>
+          <include name="conexion"/>
         </methods>
-      </class> <!-- gfa.PortalSTEP.TestPortal3Guias -->
+      </class> <!-- portalSTEP.TestFormularioConcurso -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
