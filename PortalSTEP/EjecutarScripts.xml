@@ -1,21 +1,88 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name ="Automatización envios primera plus" thread-count="3" parallel="tests">
+<suite name ="Automatización Envios Primera Plus" thread-count="1" parallel="tests">
+ 	
+ 	<!--			Concurso		
  	<test name="FirefoxTest"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
-			<class name="portalSTEP.TestPortal3Guias" ></class> 
+			<class name="portalSTEP.TestFormularioConcurso" ></class> 
 		</classes>
 	</test>
  	<test name="ChromeTest">
  		<parameter name="browser" value="chrome" />
  		<classes>
-			<class name="portalSTEP.TestPortal3Guias" ></class>
+			<class name="portalSTEP.TestFormularioConcurso" ></class>
 		</classes>
 	</test>
  	<test name="EdgeTest">
  		<parameter name="browser" value="edge" /> 
  		<classes>
-			<class name="portalSTEP.TestPortal3Guias" ></class>
+			<class name="portalSTEP.TestFormularioConcurso" ></class>
 		</classes>
 	</test>
+	-->
+	
+	<!--			Navegar		
+	<test name="FirefoxTest Navegar"> 
+ 		<parameter name="browser" value="firefox" />
+ 		<classes>
+			<class name="portalSTEP.TestNavegacion" ></class> 
+		</classes>
+	</test>
+ 	<test name="ChromeTest Navegar">
+ 		<parameter name="browser" value="chrome" />
+ 		<classes>
+			<class name="portalSTEP.TestNavegacion" ></class>
+		</classes>
+	</test>
+ 	<test name="EdgeTest Navegar">
+ 		<parameter name="browser" value="edge" /> 
+ 		<classes>
+			<class name="portalSTEP.TestNavegacion" ></class>
+		</classes>
+	</test>
+	-->
+	
+	<!--			Acceder CFDI		
+	<test name="FirefoxTest CFDI"> 
+ 		<parameter name="browser" value="firefox" />
+ 		<classes>
+			<class name="portalSTEP.TestAccesoCFDI" ></class> 
+		</classes>
+	</test>
+ 	<test name="ChromeTest CFDI">
+ 		<parameter name="browser" value="chrome" />
+ 		<classes>
+			<class name="portalSTEP.TestAccesoCFDI" ></class>
+		</classes>
+	</test>
+ 	<test name="EdgeTest CFDI">
+ 		<parameter name="browser" value="edge" /> 
+ 		<classes>
+			<class name="portalSTEP.TestAccesoCFDI" ></class>
+		</classes>
+	</test>
+	-->
+	
+	<!--			Enlaces		-->
+	<test name="FirefoxTest Enlaces Rotos"> 
+ 		<parameter name="browser" value="firefox" />
+ 		<classes>
+			<class name="portalSTEP.TestEnlacesRotos" ></class> 
+		</classes>
+	</test>
+ 	<test name="ChromeTest Enlaces Rotos">
+ 		<parameter name="browser" value="chrome" />
+ 		<classes>
+			<class name="portalSTEP.TestEnlacesRotos" ></class>
+		</classes>
+	</test>
+	<test name="EdgeTest Enlaces Rotos">
+ 		<parameter name="browser" value="edge" /> 
+ 		<classes>
+			<class name="portalSTEP.TestEnlacesRotos" ></class>
+		</classes>
+	</test>
+	
+	
 </suite>
