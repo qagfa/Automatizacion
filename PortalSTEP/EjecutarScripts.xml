@@ -1,20 +1,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name ="Automatización Envios Primera Plus" thread-count="1" parallel="tests">
  	
- 	<!--			Concurso		
- 	<test name="FirefoxTest"> 
+ 	<!--			Concurso			
+ 	<test name="FirefoxTest Concurso"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
 			<class name="portalSTEP.TestFormularioConcurso" ></class> 
 		</classes>
 	</test>
- 	<test name="ChromeTest">
+ 	<test name="ChromeTest Concurso">
  		<parameter name="browser" value="chrome" />
  		<classes>
 			<class name="portalSTEP.TestFormularioConcurso" ></class>
 		</classes>
 	</test>
- 	<test name="EdgeTest">
+ 	<test name="EdgeTest Concurso">
  		<parameter name="browser" value="edge" /> 
  		<classes>
 			<class name="portalSTEP.TestFormularioConcurso" ></class>
@@ -22,7 +22,7 @@
 	</test>
 	-->
 	
-	<!--			Navegar		
+	<!--			Navegar				
 	<test name="FirefoxTest Navegar"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
@@ -43,7 +43,7 @@
 	</test>
 	-->
 	
-	<!--			Acceder CFDI		
+	<!--			Acceder CFDI			
 	<test name="FirefoxTest CFDI"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
@@ -64,7 +64,7 @@
 	</test>
 	-->
 	
-	<!--			Enlaces		-->
+	<!--			Enlaces					
 	<test name="FirefoxTest Enlaces Rotos"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
@@ -83,6 +83,25 @@
 			<class name="portalSTEP.TestEnlacesRotos" ></class>
 		</classes>
 	</test>
+	-->
 	
-	
+	<!--			Consulta Guia Fallido			-->
+	<test name="FirefoxTest Guia Fallido"> 
+ 		<parameter name="browser" value="firefox" />
+ 		<classes>
+			<class name="portalSTEP.TestConsultaGuiaFallido" ></class> 
+		</classes>
+	</test>
+ 	<test name="ChromeTest Guia Fallido">
+ 		<parameter name="browser" value="chrome" />
+ 		<classes>
+			<class name="portalSTEP.TestConsultaGuiaFallido" ></class>
+		</classes>
+	</test>
+	<test name="EdgeTest Guia Fallido">
+ 		<parameter name="browser" value="edge" /> 
+ 		<classes>
+			<class name="portalSTEP.TestConsultaGuiaFallido" ></class>
+		</classes>
+	</test>
 </suite>

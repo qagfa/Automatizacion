@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="portalSTEP.TestFormularioConcurso">
+      <class name="portalSTEP.TestConsultaGuiaFallido">
         <methods>
-          <include name="cerrarConexion"/>
-          <include name="CargarArchivo"/>
-          <include name="conexion"/>
+          <include name="cerrarSesion"/>
+          <include name="rastreoGuia"/>
         </methods>
-      </class> <!-- portalSTEP.TestFormularioConcurso -->
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

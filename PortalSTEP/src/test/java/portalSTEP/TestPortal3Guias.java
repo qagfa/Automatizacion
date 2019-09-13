@@ -9,9 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -26,22 +24,17 @@ public class TestPortal3Guias extends claseConexion {
 	@Parameters({"browser"})
 	@BeforeClass
 	public void test3Conexion(String browser) throws InterruptedException, MalformedURLException {
-
 		iniciarVariables();
 		System.out.println(browser);
 		if(browser.equalsIgnoreCase("firefox")) {
-
 			ConexionFirefox();
 		}		
 		else if(browser.equalsIgnoreCase("edge")){
-
 			ConexionEdge();
 		}
 		else if(browser.equalsIgnoreCase("chrome")){
-
 			ConexionChrome();
 		}
-		
 		driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
 		 baseURL = getURL_PORTAL();
          nodeURL = "http://192.168.32.33:4444/wd/hub";
@@ -49,19 +42,16 @@ public class TestPortal3Guias extends claseConexion {
          capability.setBrowserName("chrome");
          capability.setPlatform(Platform.WIN10);
          driverNodo = new RemoteWebDriver(new URL(nodeURL), capability);
-
          driverNodo.get(baseURL);
 	}
 	
 	@Test
 	public void saludo() {
 		System.out.println("hola");
-		
 	}
 	
 	@AfterClass
 	public void cerrarConexion() {
-
 		driver.quit();
 		driverNodo.quit();
 	}

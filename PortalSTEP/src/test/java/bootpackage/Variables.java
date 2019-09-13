@@ -1,6 +1,5 @@
 package bootpackage;
 
-import org.openqa.selenium.WebDriver;
 
 public class Variables {
 
@@ -14,6 +13,11 @@ public class Variables {
 	public String PROPERTY_PATH_EDGE;
 	
 	public String URL_PORTAL = "http://qa-envios.primeraplus.com/";
+	
+	public int GUIAS;
+	
+	
+	
 	//public WebDriver driver;
 	
 	/*/Rutas

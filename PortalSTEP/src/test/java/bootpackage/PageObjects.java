@@ -4,16 +4,13 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import io.qameta.allure.Attachment;
 
 public class PageObjects extends BasePageObject {
 
 	protected WebDriver driver;
-	private WebElement w;
 
 	public PageObjects(WebDriver driver, String URL) {
 		super(driver);

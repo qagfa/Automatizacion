@@ -1,49 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="3" parallel="tests" name="Failed suite [Automatización envios primera plus]" guice-stage="DEVELOPMENT">
-  <test thread-count="3" parallel="tests" name="EdgeTest(failed)">
-    <parameter name="browser" value="edge"/>
-    <classes>
-      <class name="gfa.PortalSTEP.TestPortal3Guias">
-        <methods>
-          <include name="test1ConexionEdge"/>
-          <include name="iniciarConexion"/>
-          <include name="test2ConexionFirefox"/>
-          <include name="test3ConexionChrome"/>
-          <include name="cerrarConexion"/>
-          <include name="test4ConexionSafarie"/>
-        </methods>
-      </class> <!-- gfa.PortalSTEP.TestPortal3Guias -->
-    </classes>
-  </test> <!-- EdgeTest(failed) -->
-  <test thread-count="3" parallel="tests" name="ChromeTest(failed)">
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="gfa.PortalSTEP.TestPortal3Guias">
-        <methods>
-          <include name="test1ConexionEdge"/>
-          <include name="iniciarConexion"/>
-          <include name="test2ConexionFirefox"/>
-          <include name="test3ConexionChrome"/>
-          <include name="cerrarConexion"/>
-          <include name="test4ConexionSafarie"/>
-        </methods>
-      </class> <!-- gfa.PortalSTEP.TestPortal3Guias -->
-    </classes>
-  </test> <!-- ChromeTest(failed) -->
-  <test thread-count="3" parallel="tests" name="FirefoxTest(failed)">
+<suite thread-count="1" parallel="tests" name="Failed suite [Automatización Envios Primera Plus]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="FirefoxTest Concurso(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="gfa.PortalSTEP.TestPortal3Guias">
+      <class name="portalSTEP.TestFormularioConcurso">
         <methods>
-          <include name="test1ConexionEdge"/>
-          <include name="iniciarConexion"/>
-          <include name="test2ConexionFirefox"/>
-          <include name="test3ConexionChrome"/>
           <include name="cerrarConexion"/>
-          <include name="test4ConexionSafarie"/>
+          <include name="CargarArchivo" invocation-numbers="0"/>
         </methods>
-      </class> <!-- gfa.PortalSTEP.TestPortal3Guias -->
+      </class> <!-- portalSTEP.TestFormularioConcurso -->
     </classes>
-  </test> <!-- FirefoxTest(failed) -->
-</suite> <!-- Failed suite [Automatización envios primera plus] -->
+  </test> <!-- FirefoxTest Concurso(failed) -->
+  <test thread-count="1" parallel="tests" name="ChromeTest Concurso(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="portalSTEP.TestFormularioConcurso">
+        <methods>
+          <include name="cerrarConexion"/>
+          <include name="CargarArchivo" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- portalSTEP.TestFormularioConcurso -->
+    </classes>
+  </test> <!-- ChromeTest Concurso(failed) -->
+  <test thread-count="1" parallel="tests" name="EdgeTest Concurso(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="portalSTEP.TestFormularioConcurso">
+        <methods>
+          <include name="cerrarConexion"/>
+          <include name="CargarArchivo" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- portalSTEP.TestFormularioConcurso -->
+    </classes>
+  </test> <!-- EdgeTest Concurso(failed) -->
+  <test thread-count="1" parallel="tests" name="FirefoxTest Guia Fallido(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <methods>
+          <include name="cerrarSesion"/>
+          <include name="AccediendoCFDI" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </classes>
+  </test> <!-- FirefoxTest Guia Fallido(failed) -->
+  <test thread-count="1" parallel="tests" name="ChromeTest Guia Fallido(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <methods>
+          <include name="cerrarSesion"/>
+          <include name="AccediendoCFDI" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </classes>
+  </test> <!-- ChromeTest Guia Fallido(failed) -->
+  <test thread-count="1" parallel="tests" name="EdgeTest Guia Fallido(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <methods>
+          <include name="cerrarSesion"/>
+          <include name="AccediendoCFDI" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </classes>
+  </test> <!-- EdgeTest Guia Fallido(failed) -->
+</suite> <!-- Failed suite [Automatización Envios Primera Plus] -->

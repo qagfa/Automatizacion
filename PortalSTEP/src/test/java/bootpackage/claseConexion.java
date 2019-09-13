@@ -17,7 +17,7 @@ public class claseConexion {
 	public String DRIVER_PATH_EDGE;
 	public String PROPERTY_PATH_EDGE;
 	
-	public String URL_PORTAL = "http://qa-envios.primeraplus.com/";
+	public String URL_PORTAL = "http://dv67cizc9mdq8.cloudfront.net/";
 	public WebDriver driver;
 	
 ///////////////////////////////////////////////Rutas///////////////////////////////////////////////////////////////

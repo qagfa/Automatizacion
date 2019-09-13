@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-07-15T20:39:59Z" name="Default suite" finished-at="2019-07-15T20:40:17Z" duration-ms="18298">
+  <suite started-at="2019-09-13T22:09:28Z" name="Automatización Envios Primera Plus" finished-at="2019-09-13T22:10:50Z" duration-ms="81784">
     <groups>
     </groups>
-    <test started-at="2019-07-15T20:39:59Z" name="Default test" finished-at="2019-07-15T20:40:17Z" duration-ms="18298">
-      <class name="portalSTEP.TestFormularioConcurso">
-        <test-method is-config="true" signature="conexion()[pri:0, instance:portalSTEP.TestFormularioConcurso@6f044c58]" started-at="2019-07-15T20:39:59Z" name="conexion" finished-at="2019-07-15T20:40:08Z" duration-ms="9452" status="PASS">
+    <test started-at="2019-09-13T22:09:28Z" name="FirefoxTest Guia Fallido" finished-at="2019-09-13T22:10:02Z" duration-ms="33983">
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <test-method signature="rastreoGuia(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@5d3ff859]" started-at="2019-09-13T22:09:28Z" name="rastreoGuia" finished-at="2019-09-13T22:09:57Z" duration-ms="28624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- conexion -->
-        <test-method signature="CargarArchivo()[pri:0, instance:portalSTEP.TestFormularioConcurso@6f044c58]" started-at="2019-07-15T20:40:08Z" name="CargarArchivo" finished-at="2019-07-15T20:40:16Z" duration-ms="7639" status="PASS">
+        </test-method> <!-- rastreoGuia -->
+        <test-method is-config="true" signature="cerrarSesion()[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@5d3ff859]" started-at="2019-09-13T22:09:57Z" name="cerrarSesion" finished-at="2019-09-13T22:10:02Z" duration-ms="5195" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CargarArchivo -->
-        <test-method is-config="true" signature="cerrarConexion()[pri:0, instance:portalSTEP.TestFormularioConcurso@6f044c58]" started-at="2019-07-15T20:40:16Z" name="cerrarConexion" finished-at="2019-07-15T20:40:17Z" duration-ms="1013" status="PASS">
+        </test-method> <!-- cerrarSesion -->
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </test> <!-- FirefoxTest Guia Fallido -->
+    <test started-at="2019-09-13T22:10:02Z" name="ChromeTest Guia Fallido" finished-at="2019-09-13T22:10:27Z" duration-ms="24420">
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <test-method signature="rastreoGuia(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@2d74c81b]" started-at="2019-09-13T22:10:02Z" name="rastreoGuia" finished-at="2019-09-13T22:10:26Z" duration-ms="23736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cerrarConexion -->
-      </class> <!-- portalSTEP.TestFormularioConcurso -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- rastreoGuia -->
+        <test-method is-config="true" signature="cerrarSesion()[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@2d74c81b]" started-at="2019-09-13T22:10:26Z" name="cerrarSesion" finished-at="2019-09-13T22:10:27Z" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarSesion -->
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </test> <!-- ChromeTest Guia Fallido -->
+    <test started-at="2019-09-13T22:10:27Z" name="EdgeTest Guia Fallido" finished-at="2019-09-13T22:10:50Z" duration-ms="23279">
+      <class name="portalSTEP.TestConsultaGuiaFallido">
+        <test-method signature="rastreoGuia(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@456bcb74]" started-at="2019-09-13T22:10:27Z" name="rastreoGuia" finished-at="2019-09-13T22:10:49Z" duration-ms="22239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rastreoGuia -->
+        <test-method is-config="true" signature="cerrarSesion()[pri:0, instance:portalSTEP.TestConsultaGuiaFallido@456bcb74]" started-at="2019-09-13T22:10:49Z" name="cerrarSesion" finished-at="2019-09-13T22:10:50Z" duration-ms="1040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarSesion -->
+      </class> <!-- portalSTEP.TestConsultaGuiaFallido -->
+    </test> <!-- EdgeTest Guia Fallido -->
+  </suite> <!-- Automatización Envios Primera Plus -->
 </testng-results>

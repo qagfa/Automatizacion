@@ -46,8 +46,11 @@ public class BasePageObject {
 		busca(locator).equals(cadena);
 	}
 
+	public boolean estaHabilitado(By locator) {
+		return busca(locator).isEnabled();
+	}
+
 	public void navegaA(String URL) {
 		driver.get(URL);
 	}
-
 }

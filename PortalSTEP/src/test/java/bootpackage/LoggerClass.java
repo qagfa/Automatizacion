@@ -8,6 +8,5 @@ public class LoggerClass {
 	public LoggerClass() {
 		BasicConfigurator.configure();
 		Logger log = Logger.getLogger("LogPruebas");
-	}
-	
+	}	
 }
