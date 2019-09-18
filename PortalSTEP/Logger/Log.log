@@ -8226,3 +8226,60 @@ Session ID: df47ec4de009a38f1b3c0f50ea74c5f1
 [INFO ] 2019-09-13 17:10:27 portalSTEP.TestConsultaGuiaFallido - edge
 [INFO ] 2019-09-13 17:10:39 portalSTEP.TestConsultaGuiaFallido - 2
 [INFO ] 2019-09-13 17:10:47 portalSTEP.TestConsultaGuiaFallido - GuÃ­a: 481237922 
+[INFO ] 2019-09-17 10:45:55 portalSTEP.TestConsultaGuiaFallido - firefox
+[INFO ] 2019-09-17 10:46:18 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 10:46:29 portalSTEP.TestConsultaGuiaFallido - GuÃ­a: 632879100
+[INFO ] 2019-09-17 10:46:36 portalSTEP.TestConsultaGuiaFallido - chrome
+[INFO ] 2019-09-17 10:47:00 portalSTEP.TestConsultaGuiaFallido - 2
+[INFO ] 2019-09-17 10:47:09 portalSTEP.TestConsultaGuiaFallido - GuÃ­a: 365565808
+[INFO ] 2019-09-17 10:47:11 portalSTEP.TestConsultaGuiaFallido - edge
+[INFO ] 2019-09-17 10:47:29 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 10:47:39 portalSTEP.TestConsultaGuiaFallido - GuÃ­a: 222389207 
+[INFO ] 2019-09-17 11:40:48 portalSTEP.TestConsultaGuiaFallido - firefox
+[INFO ] 2019-09-17 11:41:12 portalSTEP.TestConsultaGuiaFallido - 2
+[INFO ] 2019-09-17 11:41:22 portalSTEP.TestConsultaGuiaFallido - Guía: 677411573
+[INFO ] 2019-09-17 11:41:29 portalSTEP.TestConsultaGuiaFallido - chrome
+[INFO ] 2019-09-17 11:41:49 portalSTEP.TestConsultaGuiaFallido - 2
+[INFO ] 2019-09-17 11:41:58 portalSTEP.TestConsultaGuiaFallido - Guía: 25107694
+[INFO ] 2019-09-17 11:42:00 portalSTEP.TestConsultaGuiaFallido - edge
+[INFO ] 2019-09-17 11:42:12 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 11:42:21 portalSTEP.TestConsultaGuiaFallido - Guía: 356727996 
+[INFO ] 2019-09-17 11:42:42 portalSTEP.TestConsultaGuiaFallido - firefox
+[INFO ] 2019-09-17 11:43:00 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 11:43:10 portalSTEP.TestConsultaGuiaFallido - Guía: 516025695
+[INFO ] 2019-09-17 11:43:17 portalSTEP.TestConsultaGuiaFallido - chrome
+[INFO ] 2019-09-17 11:43:31 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 11:43:41 portalSTEP.TestConsultaGuiaFallido - Guía: 33830561
+[INFO ] 2019-09-17 11:43:43 portalSTEP.TestConsultaGuiaFallido - edge
+[INFO ] 2019-09-17 11:43:50 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-17 11:44:00 portalSTEP.TestConsultaGuiaFallido - Guía: 159607058 
+[INFO ] 2019-09-17 11:44:02 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 11:44:26 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 11:44:41 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 11:48:25 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 11:48:56 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 11:49:16 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 12:23:59 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 12:24:36 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 12:24:56 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 12:26:48 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 12:27:17 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 12:27:38 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 12:36:30 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 12:36:58 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 12:37:17 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 15:22:39 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 15:23:36 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 15:24:21 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 15:42:33 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 15:43:09 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 15:43:40 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 15:48:18 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 15:48:48 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 15:49:09 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 15:57:48 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 15:59:29 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 16:00:41 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-17 16:23:52 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-17 16:24:27 portalSTEP.TestConsultaDirecciones2 - chrome
+[INFO ] 2019-09-17 16:24:54 portalSTEP.TestConsultaDirecciones2 - edge

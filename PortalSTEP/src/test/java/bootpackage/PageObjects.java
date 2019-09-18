@@ -21,6 +21,15 @@ public class PageObjects extends BasePageObject {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
 	}
+	
+
+	public void SegundosEspera(int segundos) {
+		try {
+			Thread.sleep(segundos * 1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
 
 	@Attachment(value = "Page screenshot", type = "image/png")
 	public byte[] saveScreenshot(WebDriver driver) {

@@ -41,7 +41,7 @@ public class BasePageObject {
 		busca(locator).submit();
 	}
 
-	@SuppressWarnings("unlikely-arg-type")
+	//@SuppressWarnings("unlikely-arg-type")
 	public void Compara(By locator, String cadena) {
 		busca(locator).equals(cadena);
 	}
