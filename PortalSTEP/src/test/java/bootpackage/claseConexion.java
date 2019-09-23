@@ -39,7 +39,6 @@ public class claseConexion {
 	
 	public void ConexionChrome() {
 		iniciarVariables();
-		
 		String exePath;
 		String propertyPath;
 		

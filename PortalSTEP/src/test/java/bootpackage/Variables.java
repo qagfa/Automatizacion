@@ -20,7 +20,8 @@ public class Variables {
 	public String DRIVER_PATH_EDGE;
 	public String PROPERTY_PATH_EDGE;
 	
-	public String URL_PORTAL = "http://qa-envios.primeraplus.com/";
+	public String URL_PORTAL = "http://d396t6822uj2vd.cloudfront.net/";
+			//"http://qa-envios.primeraplus.com/";
 	
 	public int GUIAS;
 	
@@ -39,7 +40,7 @@ public class Variables {
 	
 
 	// URL
-	public static final String URL = ("http://qa-envios.primeraplus.com/");
+	//public static final String URL_PORTAL = ("http://qa-envios.primeraplus.com/");
 	//public static final String URL = ("http://output.jsbin.com/osebed/2");
 	//public static final String URL =("http://toolsqa.com/automation-practice-form");
 	// <-- Módulos -->

@@ -8283,3 +8283,439 @@ Session ID: df47ec4de009a38f1b3c0f50ea74c5f1
 [INFO ] 2019-09-17 16:23:52 portalSTEP.TestConsultaDirecciones2 - firefox
 [INFO ] 2019-09-17 16:24:27 portalSTEP.TestConsultaDirecciones2 - chrome
 [INFO ] 2019-09-17 16:24:54 portalSTEP.TestConsultaDirecciones2 - edge
+[INFO ] 2019-09-23 10:18:09 portalSTEP.TestFormularioConcurso - firefox
+[INFO ] 2019-09-23 10:25:03 portalSTEP.TestFormularioConcurso - chrome
+[INFO ] 2019-09-23 10:26:06 portalSTEP.TestFormularioConcurso - edge
+[INFO ] 2019-09-23 10:27:07 portalSTEP.TestAccesoCFDI - firefox
+[INFO ] 2019-09-23 10:30:47 portalSTEP.TestAccesoCFDI - Envíos Primera Plus
+[INFO ] 2019-09-23 10:30:47 portalSTEP.TestAccesoCFDI - http://dv67cizc9mdq8.cloudfront.net/
+[INFO ] 2019-09-23 10:30:47 portalSTEP.TestAccesoCFDI - https://www.facturaelectronicagfa.mx/#/inicio
+[INFO ] 2019-09-23 10:30:50 portalSTEP.TestAccesoCFDI - chrome
+[INFO ] 2019-09-23 10:31:31 portalSTEP.TestAccesoCFDI - Envíos Primera Plus
+[INFO ] 2019-09-23 10:31:31 portalSTEP.TestAccesoCFDI - http://dv67cizc9mdq8.cloudfront.net/
+[INFO ] 2019-09-23 10:31:32 portalSTEP.TestAccesoCFDI - https://www.facturaelectronicagfa.mx/#/inicio
+[INFO ] 2019-09-23 10:31:33 portalSTEP.TestAccesoCFDI - edge
+[INFO ] 2019-09-23 10:32:10 portalSTEP.TestAccesoCFDI - Envíos Primera Plus
+[INFO ] 2019-09-23 10:32:10 portalSTEP.TestAccesoCFDI - http://dv67cizc9mdq8.cloudfront.net/
+[INFO ] 2019-09-23 10:32:10 portalSTEP.TestAccesoCFDI - https://www.facturaelectronicagfa.mx/#/inicio
+[INFO ] 2019-09-23 10:32:11 portalSTEP - firefox
+[INFO ] 2019-09-23 10:35:39 portalSTEP - Total= 127
+[INFO ] 2019-09-23 10:35:39 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:35:39 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:35:40 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:40 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:35:40 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:35:40 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:35:40 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:35:41 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:35:41 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:41 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[ERROR] 2019-09-23 10:35:41 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:35:41 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:35:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:35:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:35:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:35:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[INFO ] 2019-09-23 10:35:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:35:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:44 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:44 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:44 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:44 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:44 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:45 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:45 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:45 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:45 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:45 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:51 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:35:57 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:36:01 portalSTEP - URL: https://maps.google.com/maps?ll=21.120906,-101.661844&z=15&t=m&hl=es-MX&gl=US&mapclient=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:36:02 portalSTEP - URL: https://www.google.com/intl/es-MX_US/help/terms_maps.html responde: OK  
+[INFO ] 2019-09-23 10:36:02 portalSTEP - URL: https://www.google.com/maps/@21.1209055,-101.6618436,15z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:36:03 portalSTEP - URL: https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors responde: OK  
+[INFO ] 2019-09-23 10:36:03 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:36:57 portalSTEP - URL: https://crmsclientesweb.primeraplus.com.mx/CrearCaso.aspx responde: OK  
+[INFO ] 2019-09-23 10:36:57 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[ERROR] 2019-09-23 10:37:37 portalSTEP - URL: https://www.facebook.com/EnviosPrimeraPlus/ ¡Fallo! excepcion: Read timed out X 
+[ERROR] 2019-09-23 10:38:18 portalSTEP - URL: https://twitter.com/enviospplus ¡Fallo! excepcion: Read timed out X 
+[INFO ] 2019-09-23 10:38:19 portalSTEP - URL: https://www.primeraplus.com.mx/ responde: OK  
+[ERROR] 2019-09-23 10:38:20 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[ERROR] 2019-09-23 10:38:20 portalSTEP - URL: http://enviosprimeraplus.com/ ¡Fallo! excepcion: enviosprimeraplus.com X 
+[ERROR] 2019-09-23 10:38:20 portalSTEP - URL: http://www.ttur.com.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:38:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:38:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:38:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:38:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:38:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:38:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:38:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:38:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:38:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[INFO ] 2019-09-23 10:38:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:38:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:38:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:38:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:38:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[ERROR] 2019-09-23 10:38:27 portalSTEP - 8
+[INFO ] 2019-09-23 10:38:27 portalSTEP - Prueba finalizada
+[INFO ] 2019-09-23 10:38:29 portalSTEP - chrome
+[INFO ] 2019-09-23 10:39:03 portalSTEP - Total= 127
+[INFO ] 2019-09-23 10:39:03 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:39:03 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:39:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:39:04 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:39:05 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:39:05 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:39:05 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:39:05 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:06 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[ERROR] 2019-09-23 10:39:06 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:39:06 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:06 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:39:07 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:07 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:39:07 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:39:08 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:39:08 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[INFO ] 2019-09-23 10:39:08 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:10 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:10 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:10 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:10 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:11 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:11 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:11 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:12 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:12 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:12 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:12 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:13 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:13 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:13 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:13 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:39:31 portalSTEP - URL: https://maps.google.com/maps?ll=21.120906,-101.661844&z=15&t=m&hl=es-419&gl=US&mapclient=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:39:31 portalSTEP - URL: https://www.google.com/intl/es-419_US/help/terms_maps.html responde: OK  
+[INFO ] 2019-09-23 10:39:32 portalSTEP - URL: https://www.google.com/maps/@21.1209055,-101.6618436,15z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:39:33 portalSTEP - URL: https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors responde: OK  
+[INFO ] 2019-09-23 10:39:33 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:39:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:40:25 portalSTEP - URL: https://crmsclientesweb.primeraplus.com.mx/CrearCaso.aspx responde: OK  
+[INFO ] 2019-09-23 10:40:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[ERROR] 2019-09-23 10:41:03 portalSTEP - URL: https://www.facebook.com/EnviosPrimeraPlus/ ¡Fallo! excepcion: Read timed out X 
+[ERROR] 2019-09-23 10:41:43 portalSTEP - URL: https://twitter.com/enviospplus ¡Fallo! excepcion: Read timed out X 
+[INFO ] 2019-09-23 10:41:45 portalSTEP - URL: https://www.primeraplus.com.mx/ responde: OK  
+[ERROR] 2019-09-23 10:41:45 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[ERROR] 2019-09-23 10:41:45 portalSTEP - URL: http://enviosprimeraplus.com/ ¡Fallo! excepcion: enviosprimeraplus.com X 
+[ERROR] 2019-09-23 10:41:46 portalSTEP - URL: http://www.ttur.com.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:41:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:41:46 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:41:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:41:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:41:47 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:41:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:41:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:41:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:41:48 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[INFO ] 2019-09-23 10:41:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:41:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:41:49 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:41:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:41:50 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[ERROR] 2019-09-23 10:41:50 portalSTEP - 8
+[INFO ] 2019-09-23 10:41:50 portalSTEP - Prueba finalizada
+[INFO ] 2019-09-23 10:41:51 portalSTEP - edge
+[INFO ] 2019-09-23 10:42:14 portalSTEP - Total= 161
+[INFO ] 2019-09-23 10:42:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:42:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:42:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:14 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:42:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:42:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:42:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:42:15 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:42:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[ERROR] 2019-09-23 10:42:16 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:42:16 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:42:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:42:17 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:42:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:42:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[INFO ] 2019-09-23 10:42:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:18 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:19 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:20 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:21 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:22 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:23 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:24 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:25 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:26 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:27 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:28 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:29 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:30 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:30 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:30 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:30 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:31 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:31 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:31 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:31 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:32 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:32 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:32 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:32 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:33 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:33 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:33 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:33 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:34 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:35 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:35 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:35 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:35 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:35 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:36 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:36 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:42:38 portalSTEP - URL: https://maps.google.com/maps?ll=21.120906,-101.661844&z=15&t=m&hl=es-MX&gl=US&mapclient=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:42:39 portalSTEP - URL: https://www.google.com/intl/es-MX_US/help/terms_maps.html responde: OK  
+[INFO ] 2019-09-23 10:42:40 portalSTEP - URL: https://www.google.com/maps/@21.1209055,-101.6618436,15z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3 responde: OK  
+[INFO ] 2019-09-23 10:42:41 portalSTEP - URL: https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors responde: OK  
+[INFO ] 2019-09-23 10:42:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:42 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:42:43 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:43:31 portalSTEP - URL: https://crmsclientesweb.primeraplus.com.mx/CrearCaso.aspx responde: OK  
+[INFO ] 2019-09-23 10:43:32 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[ERROR] 2019-09-23 10:44:12 portalSTEP - URL: https://www.facebook.com/EnviosPrimeraPlus/ ¡Fallo! excepcion: Read timed out X 
+[ERROR] 2019-09-23 10:44:50 portalSTEP - URL: https://twitter.com/enviospplus ¡Fallo! excepcion: Read timed out X 
+[INFO ] 2019-09-23 10:44:51 portalSTEP - URL: https://www.primeraplus.com.mx/ responde: OK  
+[ERROR] 2019-09-23 10:44:51 portalSTEP - URL: http://www.facturaelectronicagfa.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[ERROR] 2019-09-23 10:44:51 portalSTEP - URL: http://enviosprimeraplus.com/ ¡Fallo! excepcion: enviosprimeraplus.com X 
+[ERROR] 2019-09-23 10:44:52 portalSTEP - URL: http://www.ttur.com.mx/ ¡Fallo! excepcion: Moved Permanently X 
+[INFO ] 2019-09-23 10:44:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/# responde: OK  
+[INFO ] 2019-09-23 10:44:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Inicio responde: OK  
+[INFO ] 2019-09-23 10:44:52 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Servicio-Express responde: OK  
+[INFO ] 2019-09-23 10:44:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Reenvio-Paquetes responde: OK  
+[INFO ] 2019-09-23 10:44:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Prepago-Guia responde: OK  
+[INFO ] 2019-09-23 10:44:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Tarifas responde: OK  
+[INFO ] 2019-09-23 10:44:53 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Cobertura responde: OK  
+[INFO ] 2019-09-23 10:44:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Sucursales responde: OK  
+[INFO ] 2019-09-23 10:44:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Viva-Aerobus responde: OK  
+[INFO ] 2019-09-23 10:44:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Participa responde: OK  
+[INFO ] 2019-09-23 10:44:54 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contrato-Adhesion responde: OK  
+[INFO ] 2019-09-23 10:44:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Valor-Declarado responde: OK  
+[INFO ] 2019-09-23 10:44:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Quienes-Somos responde: OK  
+[INFO ] 2019-09-23 10:44:55 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/#Contacto responde: OK  
+[INFO ] 2019-09-23 10:44:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/imgBus.png responde: OK  
+[INFO ] 2019-09-23 10:44:56 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/express.png responde: OK  
+[INFO ] 2019-09-23 10:44:57 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/reenvio.png responde: OK  
+[INFO ] 2019-09-23 10:44:58 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/prepagadas.png responde: OK  
+[INFO ] 2019-09-23 10:44:58 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/imgCoberturaSat.png responde: OK  
+[INFO ] 2019-09-23 10:44:59 portalSTEP - URL: https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png responde: OK  
+[INFO ] 2019-09-23 10:45:00 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7130!3i14416!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=90292 responde: OK  
+[INFO ] 2019-09-23 10:45:00 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7129!3i14415!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=86131 responde: OK  
+[INFO ] 2019-09-23 10:45:01 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7130!3i14415!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=66835 responde: OK  
+[INFO ] 2019-09-23 10:45:01 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7131!3i14415!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=104621 responde: OK  
+[INFO ] 2019-09-23 10:45:02 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7131!3i14416!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=128078 responde: OK  
+[INFO ] 2019-09-23 10:45:03 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7128!3i14416!4i256!2m3!1e0!2sm!3i485194060!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=38172 responde: OK  
+[INFO ] 2019-09-23 10:45:03 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7128!3i14415!4i256!2m3!1e0!2sm!3i485194060!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=14715 responde: OK  
+[INFO ] 2019-09-23 10:45:04 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7132!3i14415!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=11336 responde: OK  
+[INFO ] 2019-09-23 10:45:04 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7132!3i14416!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=34793 responde: OK  
+[INFO ] 2019-09-23 10:45:05 portalSTEP - URL: https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i15!2i7129!3i14416!4i256!2m3!1e0!2sm!3i485194073!2m3!1e2!6m1!3e5!3m14!2ses-MX!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyAtNUuhx_5BvRCuqQaLWCr2_pz-MSa7Zc0&token=109588 responde: OK  
+[INFO ] 2019-09-23 10:45:06 portalSTEP - URL: https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png responde: OK  
+[INFO ] 2019-09-23 10:45:06 portalSTEP - URL: https://maps.gstatic.com/mapfiles/api-3/images/google4.png responde: OK  
+[INFO ] 2019-09-23 10:45:07 portalSTEP - URL: https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg responde: OK  
+[INFO ] 2019-09-23 10:45:07 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/logo_egfa1.png responde: OK  
+[INFO ] 2019-09-23 10:45:08 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/mandaTuGuia.png responde: OK  
+[INFO ] 2019-09-23 10:45:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/contrato.png responde: OK  
+[INFO ] 2019-09-23 10:45:09 portalSTEP - URL: http://dv67cizc9mdq8.cloudfront.net/assets/img/callCenter.png responde: OK  
+[ERROR] 2019-09-23 10:45:09 portalSTEP - 19
+[INFO ] 2019-09-23 10:45:09 portalSTEP - Prueba finalizada
+[INFO ] 2019-09-23 10:45:10 portalSTEP.TestConsultaGuiaFallido - firefox
+[INFO ] 2019-09-23 10:51:47 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-23 10:51:58 portalSTEP.TestConsultaGuiaFallido - Guía: 648193555
+[INFO ] 2019-09-23 10:52:01 portalSTEP.TestConsultaGuiaFallido - chrome
+[INFO ] 2019-09-23 10:52:56 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-23 10:53:06 portalSTEP.TestConsultaGuiaFallido - Guía: 414182237
+[INFO ] 2019-09-23 10:53:09 portalSTEP.TestConsultaGuiaFallido - edge
+[INFO ] 2019-09-23 10:53:52 portalSTEP.TestConsultaGuiaFallido - 1
+[INFO ] 2019-09-23 10:54:01 portalSTEP.TestConsultaGuiaFallido - Guía: 680298518 
+[INFO ] 2019-09-23 10:54:04 portalSTEP.TestConsultaDirecciones2 - firefox
+[INFO ] 2019-09-23 11:00:56 portalSTEP.TestConsultaDirecciones2 - chrome
