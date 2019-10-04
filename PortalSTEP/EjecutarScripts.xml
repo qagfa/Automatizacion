@@ -35,7 +35,7 @@
 			<class name="portalSTEP.TestNavegacion" ></class>
 		</classes>
 	</test>
- 	<test name="EdgeTest Navegar">
+	<test name="EdgeTest Navegar">
  		<parameter name="browser" value="edge" /> 
  		<classes>
 			<class name="portalSTEP.TestNavegacion" ></class>
@@ -106,19 +106,21 @@
 	</test>
 	
 	
-	<!--			Consulta Guía Fallido			-->
+	<!--			Consulta Sucursales			-->
 	<test name="FirefoxTest Sucursales"> 
  		<parameter name="browser" value="firefox" />
  		<classes>
 			<class name="portalSTEP.TestConsultaDirecciones2" ></class> 
 		</classes>
 	</test>
- 	<test name="ChromeTest Sucursales">
+ 
+	<test name="ChromeTest Sucursales">
  		<parameter name="browser" value="chrome" />
  		<classes>
 			<class name="portalSTEP.TestConsultaDirecciones2" ></class>
 		</classes>
 	</test>
+
 	<test name="EdgeTest Sucursales">
  		<classes>
 			<class name="portalSTEP.TestConsultaDirecciones2" ></class>
@@ -126,7 +128,7 @@
 	</test>
 	
 	
-	<!--			Consulta Tres Guías			-->
+	<!--			Consulta Guía Abono			-->
 	<test name="FirefoxTest Abono Convenio"> 
  		<classes>
 			<class name="portalSTEP.TestConsultaAbonoConvenio" ></class> 
@@ -134,10 +136,27 @@
 	</test>
 	
 	
-	<!--			Consulta Guía Abono			-->
+	<!--			Consulta Tres Guías			-->
 	<test name="FirefoxTest Tres Guías"> 
  		<classes>
 			<class name="portalSTEP.TestConsultaTresGuias" ></class> 
+		</classes>
+	</test>
+	
+		
+	<!--			Consulta Cobro Almacenaje		-->
+	<test name="FirefoxTest Cobro Almacenaje"> 
+ 		<classes>
+			<class name="portalSTEP.TestConsultaCobroAlmacenaje" ></class> 
+		</classes>
+	</test>
+	
+	
+	
+	<!--			Consulta Estatus Guías		-->
+	<test name="FirefoxTest Estatus Guías"> 
+ 		<classes>
+			<class name="portalSTEP.TestConsultaGuiasPorEstatus" ></class> 
 		</classes>
 	</test>
 	

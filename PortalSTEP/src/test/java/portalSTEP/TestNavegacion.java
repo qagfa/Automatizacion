@@ -2,12 +2,14 @@ package portalSTEP;
 
 import java.net.MalformedURLException;
 import java.util.concurrent.TimeUnit;
+
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -57,88 +59,75 @@ public class TestNavegacion extends claseConexion {
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 	@Step
-	@Test(priority = 12)
 	public void navegarAInicio() {
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[1]/a")));
 	}
 	
 	@Step
-	@Test(priority = 1)
 	public void navegarAServicioExpres() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[1]/a")));
 	}
 
 	@Step
-	@Test(priority = 2)
 	public void navegarAReenvioPaquetes() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[2]/a")));
 	}
 
 	@Step
-	@Test(priority = 3)
 	public void navegarAGuiasPrepagadas() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[3]/a")));
 	}
 
 	@Step
-	@Test(priority = 4)
 	public void navegarATarifas() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[4]/a")));
 	}
 
 	@Step
-	@Test(priority = 5)
 	public void navegarACobertura() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[5]/a")));
 	}
 
 	@Step
-	@Test(priority = 6)
 	public void navegarASucursales() {
 		navegarANuestrosServicios();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[2]/ul/li[6]/a")));
 	}
 
 	@Step
-	@Test(priority = 7)
 	public void navegarAParcipaGana() {
 		navegarAPromociones();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[4]/ul/li/a")));
 	}
 
 	@Step
-	@Test(priority = 8)
 	public void navegarAContratoAdhesion() {
 		navegarALegal();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[5]/ul/li[1]/a")));
 	}
 
 	@Step
-	@Test(priority = 9)
 	public void navegarAValorDeclarado() {
 		navegarALegal();
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[5]/ul/li[2]/a")));
 	}
 
 	@Step
-	@Test(priority = 10)
 	public void navegarAQuienesSomos() {
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[6]/a")));
 	}
 
 	@Step
-	@Test(priority = 11)
 	public void navegarAContactanos() {
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[7]/a")));
 	}
 
 	@Step
-	@Test(priority = 13)
 	public void navegarADescargarCFDI() throws InterruptedException {
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[3]/a")));
 		Thread.sleep(5000);
@@ -146,9 +135,13 @@ public class TestNavegacion extends claseConexion {
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-	@Parameters({ "browser" })
-	@Test(priority = 0)
-	public void ejecutarConfiguracion(String browser) {
+	@DataProvider(name = "dp")
+	public Object[][] dp() {
+		return new Object[][] { new Object[] { "firefox" }, new Object[] { "chrome" }, new Object[] { "edge" }, };
+	}
+
+	@Test(dataProvider = "dp")
+	public void ejecutarConfiguracion(String browser) throws InterruptedException {
 		logger.info(browser);
 		try {
 			Conexion(browser);
@@ -157,6 +150,32 @@ public class TestNavegacion extends claseConexion {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
+		
+		navegarAServicioExpres();
+		
+		navegarAReenvioPaquetes();
+		
+		navegarAGuiasPrepagadas();
+		
+		navegarATarifas();
+		
+		navegarACobertura();
+		
+		navegarASucursales();
+		
+		navegarAParcipaGana();
+		
+		navegarAContratoAdhesion();
+		
+		navegarAValorDeclarado();
+		
+		navegarAQuienesSomos();
+		
+		navegarAContactanos();
+		
+		navegarAInicio();
+		
+		navegarADescargarCFDI();
 	}
 	
 	@AfterMethod

@@ -6,6 +6,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
@@ -41,11 +42,16 @@ public class TestFormularioConcurso extends claseConexion {
 		PO.click((By.xpath("/html/body/app-principal/app-header/nav/div/div[2]/ul/li[4]/ul/li/a")));
 		Thread.sleep(1000);
 		PO.escribe((By.id("cont-capParticipa-nombreParticipante")), "Leo");
-		PO.escribe((By.id("cont-capParticipa-correoParticipante")), "leo@hotmail.com");
-		PO.escribe((By.id("cont-uploadParticipa-imagenParticipante")), "C:\\imagenes\\07_54_.png");
+		PO.escribe((By.id("cont-capParticipa-correoParticipante")), "leonardolozar@hotmail.com");
+		PO.escribe((By.id("cont-uploadParticipa-imagenParticipante")), "C:\\imagenes\\07_"+54+"_.png");
 		Thread.sleep(500);
 		PO.click((By.id("cont-alertParticipante-mensajeRegistro")));
 		Thread.sleep(5000);
+		validar();
+	}
+	
+	public void validar() {
+		Assert.assertTrue(PO.busca(By.xpath("//*[@id=\"contConcursoAlert-alertaMensaaje\"]/div/strong")).isDisplayed(), "Una alerta debió aparecer");
 	}
 
 	@AfterClass

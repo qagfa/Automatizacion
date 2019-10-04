@@ -1,50 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-09-18T15:18:27Z" name="Default suite" finished-at="2019-09-18T15:19:08Z" duration-ms="41233">
+  <suite started-at="2019-09-30T17:24:47Z" name="Default suite" finished-at="2019-09-30T17:24:47Z" duration-ms="14">
     <groups>
     </groups>
-    <test started-at="2019-09-18T15:18:27Z" name="Default test" finished-at="2019-09-18T15:19:08Z" duration-ms="41233">
-      <class name="portalSTEP.TestConsultaAbonoConvenio">
-        <test-method signature="pruebaConexion(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaAbonoConvenio@3252747e]" started-at="2019-09-18T15:18:27Z" name="pruebaConexion" data-provider="dp" finished-at="2019-09-18T15:18:44Z" duration-ms="17042" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pruebaConexion -->
-        <test-method signature="pruebaConexion(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaAbonoConvenio@3252747e]" started-at="2019-09-18T15:18:44Z" name="pruebaConexion" data-provider="dp" finished-at="2019-09-18T15:18:58Z" duration-ms="13104" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pruebaConexion -->
-        <test-method signature="pruebaConexion(java.lang.String)[pri:0, instance:portalSTEP.TestConsultaAbonoConvenio@3252747e]" started-at="2019-09-18T15:18:58Z" name="pruebaConexion" data-provider="dp" finished-at="2019-09-18T15:19:05Z" duration-ms="7274" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- pruebaConexion -->
-        <test-method is-config="true" signature="CerrarSesion()[pri:0, instance:portalSTEP.TestConsultaAbonoConvenio@3252747e]" started-at="2019-09-18T15:19:05Z" name="CerrarSesion" finished-at="2019-09-18T15:19:08Z" duration-ms="3540" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CerrarSesion -->
-      </class> <!-- portalSTEP.TestConsultaAbonoConvenio -->
+    <test started-at="2019-09-30T17:24:47Z" name="Default test" finished-at="2019-09-30T17:24:47Z" duration-ms="14">
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
