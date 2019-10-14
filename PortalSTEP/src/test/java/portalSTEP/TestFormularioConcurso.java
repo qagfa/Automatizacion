@@ -50,7 +50,8 @@ public class TestFormularioConcurso extends claseConexion {
 		validar();
 	}
 	
-	public void validar() {
+	public void validar() throws InterruptedException {
+		Thread.sleep(500);
 		Assert.assertTrue(PO.busca(By.xpath("//*[@id=\"contConcursoAlert-alertaMensaaje\"]/div/strong")).isDisplayed(), "Una alerta debió aparecer");
 	}
 
