@@ -21,13 +21,20 @@
         	    </pattern>
     	    </PatternLayout>
     	</File>
+    	<File name= "ArchivoDebug" fileName= "Logger/app-debug.log" >
+        	<PatternLayout>
+            	<pattern>
+					[%-5level] %d{yyyy-MM-dd HH:mm:ss} %logger{36} - %msg%n
+        	    </pattern>
+    	    </PatternLayout>
+    	</File>
 	</Appenders>
 	<Loggers>
 		<Root level= "info" >
 			<AppenderRef ref="Console"/>
 			<AppenderRef ref="Archivo"/>
 		</Root>
-		<Logger name= "portalSTEP" level="info" additivity="false">
+		<Logger name= "Ventas" level="info" additivity="false">
 			<AppenderRef ref="Console"/>
 			<AppenderRef ref="Archivo"/>
 			<AppenderRef ref="ArchivoError"/>
